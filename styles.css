@@ -200,7 +200,6 @@ body {
 }
 
 .about-content {
-    display: grid;
     gap: 3rem;
     align-items: center;
 }
@@ -992,4 +991,5 @@ body {
     }
 
 }
+
 
