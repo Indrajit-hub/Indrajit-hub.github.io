@@ -419,6 +419,21 @@ body {
     transform: translateY(-5px);
 }
 
+
+.portfolio-imgg {
+  width: 100%;
+  height: 220px;  
+  overflow: hidden;
+  border-top-left-radius: 18px;
+  border-top-right-radius: 18px;
+}
+
+.portfolio-imgg img {
+  width: 100%;
+  height: 100%;
+  object-fit: cover;   
+}
+
 .portfolio-img {
     width: 100%;
     height: 250px;
@@ -991,4 +1006,5 @@ body {
     .project-tech {
         justify-content: flex-start;
     }
+
 }
