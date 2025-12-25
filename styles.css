@@ -420,9 +420,9 @@ body {
 }
 
 
-/* .portfolio-imgg {
+.portfolio-imgg {
   width: 100%;
-  height: 220px;  
+  height: 250px;  
   overflow: hidden;
   border-top-left-radius: 18px;
   border-top-right-radius: 18px;
@@ -432,7 +432,7 @@ body {
   width: 100%;
   height: 100%;
   object-fit: cover;   
-} */
+}
 
 .portfolio-img {
     width: 100%;
@@ -446,11 +446,11 @@ body {
     font-weight: bold;
 }
 
-.portfolio-img img {
+/* .portfolio-img img {
   width: 100%;
   height: 100%;
   object-fit: cover;   
-}
+} */
 
 .portfolio-content {
     padding: 1.5rem;
@@ -1014,4 +1014,5 @@ body {
     }
 
 }
+
 
